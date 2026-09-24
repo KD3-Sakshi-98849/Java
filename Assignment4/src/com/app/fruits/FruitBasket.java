@@ -23,7 +23,7 @@ public class FruitBasket {
 			System.out.println("3.Add Apple");
 			System.out.println("4.Display Names");
 			System.out.println("5.Display fresh Fruits");
-			System.out.println("6. Display stale fruits");
+			System.out.println("6.Display stale fruits");
 			System.out.println("7.Mark fruit stale");
 			System.out.println("8.Mark all sour fruits stale");
 		
